@@ -8,7 +8,7 @@ This template provides a one-click dev environment for building "LLM apps" with 
 
 1. Create a codespace for this template.
 
-    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lostintangent/codespaces-langchain?resume=1)
+    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/bdmac/codespaces-langchain?resume=1)
 
 1. Once you're within the web editor, simply open any of the notebooks within the `/examples` folder, and select `Run All` in the notebook's toolbar. From there, you can change any of the prompts and/or code, and then re-run the cell/notebook, in order to get a better intuition for how LangChain can help you build your own custom chains 🚀
 
